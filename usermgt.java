@@ -4,8 +4,8 @@ ajari
 daelon
 addison
 dash
-kenneth
-live
+Aja
+Aaron
 get
 Dre-Dre
 Sha
