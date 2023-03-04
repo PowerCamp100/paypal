@@ -1,6 +1,6 @@
-ThisIsGreat
-developing java branch
+we support
+java applications
 .net applications 
-and making our client happy
 NodeJS applications
-Python application
+Python applications
+web applications
